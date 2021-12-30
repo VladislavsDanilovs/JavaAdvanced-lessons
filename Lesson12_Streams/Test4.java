@@ -1,7 +1,5 @@
 package Lesson12_Streams;
 
-import Lesson0_PracticeGUI.Login_System.Attempt1.Passwords;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
